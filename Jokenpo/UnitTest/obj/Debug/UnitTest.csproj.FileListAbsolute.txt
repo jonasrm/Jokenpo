@@ -1,0 +1,7 @@
+C:\Users\jonas.mendes\Desktop\Prova\Jokenpo\UnitTest\bin\Debug\UnitTest.dll
+C:\Users\jonas.mendes\Desktop\Prova\Jokenpo\UnitTest\bin\Debug\UnitTest.pdb
+C:\Users\jonas.mendes\Desktop\Prova\Jokenpo\UnitTest\bin\Debug\Jokenpo.exe
+C:\Users\jonas.mendes\Desktop\Prova\Jokenpo\UnitTest\bin\Debug\Jokenpo.pdb
+C:\Users\jonas.mendes\Desktop\Prova\Jokenpo\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\jonas.mendes\Desktop\Prova\Jokenpo\UnitTest\obj\Debug\UnitTest.dll
+C:\Users\jonas.mendes\Desktop\Prova\Jokenpo\UnitTest\obj\Debug\UnitTest.pdb

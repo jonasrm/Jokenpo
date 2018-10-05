@@ -1,0 +1,6 @@
+C:\Users\jonas.mendes\Desktop\Prova\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe.config
+C:\Users\jonas.mendes\Desktop\Prova\Jokenpo\Jokenpo\bin\Debug\Jokenpo.exe
+C:\Users\jonas.mendes\Desktop\Prova\Jokenpo\Jokenpo\bin\Debug\Jokenpo.pdb
+C:\Users\jonas.mendes\Desktop\Prova\Jokenpo\Jokenpo\obj\Debug\Jokenpo.csprojResolveAssemblyReference.cache
+C:\Users\jonas.mendes\Desktop\Prova\Jokenpo\Jokenpo\obj\Debug\Jokenpo.exe
+C:\Users\jonas.mendes\Desktop\Prova\Jokenpo\Jokenpo\obj\Debug\Jokenpo.pdb
